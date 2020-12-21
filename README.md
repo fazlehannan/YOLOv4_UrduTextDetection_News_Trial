@@ -7,4 +7,5 @@ B) Validation set = 15 News Frames (Images) with annotation files <br>
 Open the given Colab Notebook and follow the steps <br>
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](http://https://colab.research.google.com/drive/1DeegVTrFzbwr3wi4glahgTQY0hO-uOdo?usp=sharing)
 ## Result of Our Pre Trained Model <br>
-![alt tag](https://github.com/fazlehannan/YOLOv4_UrduTextDetection_News_Trial/issues/1#issue-772476875)
+## Acknowledgement <br>
+This trial is the part of a challenging research problem related to cursive text detection and recognition conducting by **Computer Vision and Machine Learning Research Group (CVML)** at the **Nationl Center in Big Data and Cloud Computing , University of Engineering and Technology, Peshawar Pakistan**. The CVML Research group is headed by **Co-PI Dr Aamir Saeed (Assistant Professor CSIT)**.
