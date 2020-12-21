@@ -1,2 +1,6 @@
 # Urdu Text Detection in News Videos Using YOLOv4
-Note: This is a trial version 
+###### The smallest headingNote: This is a trial version 
+**Custom Dataset**
+A) Train set = 100 News Frames (Images) with annotation files
+B) Validation set = 15 100 News Frames (Images) with annotation files
+
