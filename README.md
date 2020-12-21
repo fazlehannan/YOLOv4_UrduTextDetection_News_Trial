@@ -1,1 +1,2 @@
-# YOLOv4_UrduTextDetection_News_Trial
+# Urdu Text Detection in News Videos Using YOLOv4
+Note: This is a trial version 
