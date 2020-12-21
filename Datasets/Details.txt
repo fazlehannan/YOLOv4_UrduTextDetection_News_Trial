@@ -1,0 +1,8 @@
+This trial dataset has been prepared by CVML Research Group in NCBC UET Peshawar.
+*****************************************************************************
+Co-PI: Dr Aamir Saeed
+Research Team: Fazle Hanan Shaida , Muhammad Zahoor , Muhammad Arab.
+*****************************************************************************
+Purpose: Urdu text detection in news video through YOLOv4.
+Train set = 100 images
+Validate set = 15 images
