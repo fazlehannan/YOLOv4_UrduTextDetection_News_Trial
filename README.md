@@ -9,6 +9,7 @@ Open the given Colab Notebook and follow the steps <br>
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1DeegVTrFzbwr3wi4glahgTQY0hO-uOdo?usp=sharing)
 ## Acknowledgement <br>
 This trial is the part of research on challenging problems related to cursive text detection and recognition conducting by **Computer Vision and Machine Learning Research Group (CVML)** at the **Nationl Center in Big Data and Cloud Computing , University of Engineering and Technology, Peshawar Pakistan**. The CVML Research group is headed by **Co-PI Dr Aamir Saeed (Assistant Professor CSIT)**.<br>
-The motto of our research group is to prepare the quality graudates equipped with the industry-oriented skills through which they can make a constructive and commendable contribution to dear homeland Pakistan at large through knowledge acquired in the fields of machine learning and computer vision. 
+The motto of our research group is to prepare the quality graudates equipped with the industry-oriented skills through which they can make a constructive and commendable contribution to the dear homeland Pakistan.
 If you want not only to acquire a clear understanding of these fields but also the skills to execute it, please free to contact us. 
+
 
