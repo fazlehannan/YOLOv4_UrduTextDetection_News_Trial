@@ -1,6 +1,7 @@
 # Urdu Text Detection in News Videos Using YOLOv4
-###### This is a trial version 
+## Note: This is a trial version. 
 ## Custom Dataset <br>
+A dedicated research team at NCBC UET Peshawar has prepared a large dataset of thousands of news frames extracted from several Urdu news channels. The dataset includes annotation files for YOLOv4 training. Now only a small subset of the dataset has been public for this trial version. <br>
 A) Train set = 100 News Frames (Images) with annotation files <br>
 B) Validation set = 15 News Frames (Images) with annotation files <br>
 ## Datasets Preprocessing and Training <br>
