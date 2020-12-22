@@ -12,7 +12,7 @@ This trial is the part of research on challenging problems related to cursive te
 The motto of our research group is to prepare the quality graudates equipped with the industry-oriented skills through which they can make a constructive and commendable contribution to the dear homeland Pakistan.
 If you want not only to acquire a clear understanding of these fields but also the skills to execute it, please free to contact us. 
 ## Credits: <br>
-I am very thankful  *The AI Guys* for such a detailed and clear tutorial of YOLOv4 training which help me to compile this training colab notebook for our custom dataset.<br>
+I am very thankful  *The AI Guys* for such a detailed and clear tutorial of YOLOv4 training which help me to compile the colab notebook for training of our custom dataset.<br>
 1) THE GOOGLE COLAB NOTEBOOK: https://colab.research.google.com/drive/1_GdoqCJWXsChrOiY8sZMr_zbr_fH-0Fg?usp=sharing#scrollTo=68eMertgIxaB  <br>
 2) Github Code Repository:https://github.com/theAIGuysCode/YOLOv4-Cloud-Tutorial <br>
 ## Other References:<br>
